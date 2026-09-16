@@ -1,0 +1,5 @@
+node_modules/
+backend/uploads/
+backend/certs/
+backend/__pycache__/
+*.pyc
